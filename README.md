@@ -15,7 +15,7 @@
 I'm an Informatics and Artificial Intelligence graduate focused on building end-to-end AI systems—from experimentation and model evaluation to backend API integration.
 
 - Building practical applications with LLMs, NLP, recommendation systems, and computer vision
-- Developing AI and backend services with Python, FastAPI, Node.js, C#, and ASP.NET Core
+- Developing AI and backend services with Python, FastAPI, Node.js, and C#
 - Interested in explainable systems, reliable APIs, and production-oriented AI engineering
 - Currently deepening my knowledge of Microsoft Azure, Docker, and cloud architecture
 - Open to Junior AI Engineer, AI/ML, and Backend AI opportunities
@@ -32,9 +32,9 @@ I'm an Informatics and Artificial Intelligence graduate focused on building end-
 ## Technology
 
 **Languages:** Python, JavaScript, TypeScript, C#, PHP, SQL  
-**Backend:** FastAPI, Node.js, ASP.NET Core, Laravel  
+**Backend:** FastAPI, Node.js  
 **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, LLM Applications  
-**Data & Tools:** SQL Server, Git, GitHub, REST APIs, Docker  
+**Data & Tools:** Git, GitHub, REST APIs, Docker  
 **Cloud:** Microsoft Azure (currently advancing)
 
 ## Featured Projects
