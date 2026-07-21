@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mike Eliovits 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer focused on building end-to-end intelligent systems using LLMs, NLP, computer vision, and backend AI technologies to deliver practical and reliable real-world applications.</strong>
+  <strong>AI Engineer building practical, reliable software powered by modern AI.</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ I'm an Informatics and Artificial Intelligence graduate focused on building end-
 - Building practical applications with LLMs, NLP, recommendation systems, and computer vision
 - Developing AI and backend services with Python, FastAPI, and Node.js
 - Interested in explainable systems, reliable APIs, and production-oriented AI engineering
-- Currently deepening my knowledge of Microsoft Azure, Docker, and cloud architecture
+-  RAG systems, expert systems, model evaluation, and asynchronous processing
 - Open to Junior AI Engineer, AI/ML, and Backend AI opportunities
 
 ## Focus Areas
@@ -49,6 +49,4 @@ I'm an Informatics and Artificial Intelligence graduate focused on building end-
 
 I'm continuing to strengthen my skills in LLM application architecture, production AI backends, automated testing, and Azure cloud services.
 
-## Connect
 
-You can reach me through [LinkedIn](https://www.linkedin.com/in/mike-eliovits-4861b3379/).
