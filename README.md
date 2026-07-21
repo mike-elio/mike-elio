@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mike Eliovits 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer focused on turning machine-learning ideas into practical, reliable applications.</strong>
+  <strong>AI Engineer focused on building end-to-end intelligent systems using LLMs, NLP, computer vision, and backend AI technologies to deliver practical and reliable real-world applications.</strong>
 </p>
 
 <p align="center">
