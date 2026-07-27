@@ -1,10 +1,14 @@
 <h1 align="center">Hi, I'm Mike Eliovits 👋</h1>
 
+<h3 align="center">Junior AI Engineer | Building Practical, End-to-End AI Systems</h3>
+
 <p align="center">
-  <strong>AI Engineer building practical, reliable software powered by modern AI.</strong>
+  I turn machine learning ideas into usable software—from experimentation and model evaluation to reliable APIs and application integration.
 </p>
 
 <p align="center">
+  <a href="https://mike-elio.github.io/">Portfolio</a>
+  ·
   <a href="https://www.linkedin.com/in/mike-eliovits-4861b3379/">LinkedIn</a>
   ·
   <a href="https://github.com/mike-elio">GitHub</a>
@@ -12,41 +16,48 @@
 
 ## About Me
 
-I'm an Informatics and Artificial Intelligence graduate focused on building end-to-end AI systems—from experimentation and model evaluation to backend API integration.
+I'm an Informatics and Artificial Intelligence graduate focused on building complete AI solutions that connect models, backend services, and real user needs.
 
-- Building practical applications with LLMs, NLP, recommendation systems, and computer vision
-- Developing AI and backend services with Python, FastAPI, and Node.js
-- Interested in explainable systems, reliable APIs, and production-oriented AI engineering
--  RAG systems, expert systems, model evaluation, and asynchronous processing
+- Build applications using LLMs, NLP, recommendation systems, computer vision, and expert systems
+- Develop AI and backend APIs with Python, FastAPI, Pydantic, and asynchronous processing
+- Train, evaluate, and integrate machine learning and deep learning models
+- Care about explainability, reliable APIs, automated testing, and production-oriented engineering
 - Open to Junior AI Engineer, AI/ML, and Backend AI opportunities
-
-## Focus Areas
-
-- LLM applications and Retrieval-Augmented Generation (RAG)
-- Natural Language Processing
-- Recommendation and expert systems
-- Computer Vision
-- Backend AI development
-- Cloud computing and Microsoft Azure
-
-## Technology
-
-**Languages:** Python, JavaScript  
-**Backend:** FastAPI, Node.js, Laravel  
-**AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, LLM Applications  
-**Data & Tools:** Git, GitHub, REST APIs, Docker  
-**Cloud:** Microsoft Azure (currently advancing)
 
 ## Featured Projects
 
-| Project | Description | Technology |
-| --- | --- | --- |
-| [GoalPath Expert System](https://github.com/mike-elio/senior) | Interview-driven expert system that produces explainable career-track recommendations, fit scores, strengths, and gap plans. | Python, FastAPI, Pydantic, pytest |
-| [Laravel Product and Task Manager](https://github.com/mike-elio/project-part2) | Laravel 12 web application for managing products, tasks, and users. | PHP, Laravel, Eloquent, Vite |
-| [Laravel Task Manager API](https://github.com/mike-elio/task-manager-laravel) | Task-management REST API with Laravel Sanctum support. | PHP, Laravel, REST API, Sanctum |
+### [Nahd AI Coaching Platform](https://github.com/mike-elio/Nahd-AI-Coaching-Platform)
 
-## Current Direction
+Four AI-powered features I built as part of a wider digital coaching platform:
 
-I'm continuing to strengthen my skills in LLM application architecture, production AI backends, automated testing, and Azure cloud services.
+- **Voice Coach:** conversational voice assistance for coaching sessions
+- **Image Task Verification:** checks whether uploaded images support completion of a described task
+- **Career Expert System:** recommends technical career paths through an explainable, rule-based interview
+- **Fault Diagnosis:** converts technical issue descriptions into evidence-backed troubleshooting plans
 
+`Python` `FastAPI` `NLP` `Computer Vision` `LLM Applications` `Expert Systems`
 
+### [AquaGuard AI](https://github.com/mike-elio/AquaGuard-AI)
+
+My two contributions to a wider water-quality project: a machine learning workflow for predicting water-quality values and a rule-based FastAPI service for diagnosing symptoms and possible causes.
+
+`Python` `Machine Learning` `Random Forest` `FastAPI` `Expert Systems`
+
+### [GoalPath Expert System](https://github.com/mike-elio/senior)
+
+An interview-driven career recommendation API that evaluates user answers, recommends a path across Software Engineering, Artificial Intelligence, and Cloud/Networking, and returns a weighted fit score with explanations, strengths, and development gaps.
+
+`Python` `FastAPI` `Pydantic` `Rule-Based AI` `pytest` `HTTPX`
+
+## Technical Toolbox
+
+- **AI & Machine Learning:** LLM applications, RAG, NLP, computer vision, recommendation systems, expert systems, model training and evaluation
+- **Backend Engineering:** Python, FastAPI, Node.js, Pydantic, REST APIs, asynchronous processing
+- **Engineering Tools:** Git, GitHub, Docker, automated testing
+- **Cloud:** Building practical knowledge of Microsoft Azure and cloud deployment
+
+## Current Focus
+
+I'm strengthening my skills in production AI backends, LLM application architecture, automated evaluation and testing, Docker, and Microsoft Azure.
+
+I'm open to opportunities where I can contribute to real AI products, learn from experienced teams, and grow as an AI Engineer.
