@@ -43,12 +43,6 @@ My two contributions to a wider water-quality project: a machine learning workfl
 
 `Python` `Machine Learning` `Random Forest` `FastAPI` `Expert Systems`
 
-### [GoalPath Expert System](https://github.com/mike-elio/senior)
-
-An interview-driven career recommendation API that evaluates user answers, recommends a path across Software Engineering, Artificial Intelligence, and Cloud/Networking, and returns a weighted fit score with explanations, strengths, and development gaps.
-
-`Python` `FastAPI` `Pydantic` `Rule-Based AI` `pytest` `HTTPX`
-
 ## Technical Toolbox
 
 - **AI & Machine Learning:** LLM applications, RAG, NLP, computer vision, recommendation systems, expert systems, model training and evaluation
