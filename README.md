@@ -26,6 +26,17 @@ I'm an Informatics and Artificial Intelligence graduate focused on building comp
 
 ## Featured Projects
 
+### [Adaptive AI Tool Guide](https://github.com/mike-elio/toolguide)
+
+An evidence-backed, bilingual recommendation system that asks 6–10 adaptive questions and returns three explainable tool recommendations for software, AI, and cybersecurity projects.
+
+- 48 curated tools across Analysis, Design, Implementation, and Testing
+- Arabic and English interface with source-backed questions and recommendations
+- Local-first short-text classification with an optional Ollama fallback
+- 250-session validation suite, automated CI, and an MIT license
+
+`Python` `FastAPI` `JavaScript` `Ollama` `CLIPS` `Adaptive Questionnaires`
+
 ### [Nahd AI Coaching Platform](https://github.com/mike-elio/Nahd-AI-Coaching-Platform)
 
 Four AI-powered features I built as part of a wider digital coaching platform:
@@ -55,3 +66,4 @@ My two contributions to a wider water-quality project: a machine learning workfl
 I'm strengthening my skills in production AI backends, LLM application architecture, automated evaluation and testing, Docker, and Microsoft Azure.
 
 I'm open to opportunities where I can contribute to real AI products, learn from experienced teams, and grow as an AI Engineer.
+
