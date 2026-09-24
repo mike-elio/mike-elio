@@ -28,12 +28,12 @@ I'm an Informatics and Artificial Intelligence graduate focused on building comp
 
 ### [Adaptive AI Tool Guide](https://github.com/mike-elio/toolguide)
 
-An evidence-backed, bilingual recommendation system that asks 6–10 adaptive questions and returns three explainable tool recommendations for software, AI, and cybersecurity projects.
+An evidence-backed, bilingual recommendation system for software, AI, and cybersecurity projects. It asks 6–10 adaptive questions and returns up to three eligible tools with explanations, side-by-side comparisons, starter guides, and what-if previews.
 
-- 48 curated tools across Analysis, Design, Implementation, and Testing
-- Arabic and English interface with source-backed questions and recommendations
-- Local-first short-text classification with an optional Ollama fallback
-- 250-session validation suite, automated CI, and an MIT license
+- 192 catalog tools across Analysis, Design, Implementation, and Testing
+- 12 project-stage/domain pools with 672 source-backed questions
+- Hard requirement filtering for capabilities such as offline operation, free plans, and open source
+- Arabic and English interface, with local-first short-text classification and an optional Ollama fallback
 
 `Python` `FastAPI` `JavaScript` `Ollama` `CLIPS` `Adaptive Questionnaires`
 
