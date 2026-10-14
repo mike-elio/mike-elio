@@ -26,6 +26,17 @@ I'm an Informatics and Artificial Intelligence graduate focused on building comp
 
 ## Featured Projects
 
+### [Fake Image Detection - ConvNeXt Research](https://github.com/mike-elio/image-detection-fake)
+
+A three-class computer vision project for distinguishing real, fully synthetic, and tampered images, with five recorded ConvNeXt-Base/Small experiments and a PyTorch inference script.
+
+- Compared dataset sizes of 3,976, 50,000, and 121,000 images
+- Best saved validation accuracy: **94.45%**; the experiment report records **94.24% test accuracy** for the largest run
+- Includes training notebooks, evaluation outputs, inference dependencies, and a README explaining the research and the related Streamlit/FastAPI application
+- Model weights are supplied separately; the application source is not included in this research repository
+
+`Python` `PyTorch` `torchvision` `ConvNeXt` `Computer Vision` `Transfer Learning`
+
 ### [Adaptive AI Tool Guide](https://github.com/mike-elio/toolguide)
 
 An evidence-backed, bilingual recommendation system for software, AI, and cybersecurity projects. It asks 6–10 adaptive questions and returns up to three eligible tools with explanations, side-by-side comparisons, starter guides, and what-if previews.
