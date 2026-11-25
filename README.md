@@ -26,6 +26,16 @@ I'm an Informatics and Artificial Intelligence graduate focused on building comp
 
 ## Featured Projects
 
+### [Datheon Python](https://github.com/mike-elio/Datheon-python)
+
+Three Python projects using Google Gemini, covering structured data extraction, document question answering, and tool-using agents.
+
+- **Structured data extraction** converts invoice and résumé text to JSON and validates it with Pydantic.
+- **PDF question answering** uses LangChain and Chroma to retrieve relevant passages and cite source pages.
+- **Console research agent** uses LangChain to choose web search, PDF reading, and arithmetic tools, then shows the tool calls and results in the terminal.
+
+`Python` `Google Gemini` `LangChain` `Pydantic` `Chroma`
+
 ### [Fake Image Detection - ConvNeXt Research](https://github.com/mike-elio/image-detection-fake)
 
 A three-class computer vision project for distinguishing real, fully synthetic, and tampered images, with five recorded ConvNeXt-Base/Small experiments and a PyTorch inference script.
@@ -64,16 +74,6 @@ Four AI-powered features I built as part of a wider digital coaching platform:
 My two contributions to a wider water-quality project: a machine learning workflow for predicting water-quality values and a rule-based FastAPI service for diagnosing symptoms and possible causes.
 
 `Python` `Machine Learning` `Random Forest` `FastAPI` `Expert Systems`
-
-### [Datheon Python](https://github.com/mike-elio/Datheon-python)
-
-Three Python projects using Google Gemini, covering structured data extraction, document question answering, and tool-using agents.
-
-- **Structured data extraction** converts invoice and résumé text to JSON and validates it with Pydantic.
-- **PDF question answering** uses LangChain and Chroma to retrieve relevant passages and cite source pages.
-- **Console research agent** uses LangChain to choose web search, PDF reading, and arithmetic tools, then shows the tool calls and results in the terminal.
-
-`Python` `Google Gemini` `LangChain` `Pydantic` `Chroma`
 
 ## Technical Toolbox
 
