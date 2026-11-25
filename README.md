@@ -65,6 +65,16 @@ My two contributions to a wider water-quality project: a machine learning workfl
 
 `Python` `Machine Learning` `Random Forest` `FastAPI` `Expert Systems`
 
+### [Datheon Python](https://github.com/mike-elio/Datheon-python)
+
+Three Python projects using Google Gemini, covering structured data extraction, document question answering, and tool-using agents.
+
+- **Structured data extraction** converts invoice and résumé text to JSON and validates it with Pydantic.
+- **PDF question answering** uses LangChain and Chroma to retrieve relevant passages and cite source pages.
+- **Console research agent** uses LangChain to choose web search, PDF reading, and arithmetic tools, then shows the tool calls and results in the terminal.
+
+`Python` `Google Gemini` `LangChain` `Pydantic` `Chroma`
+
 ## Technical Toolbox
 
 - **AI & Machine Learning:** LLM applications, RAG, NLP, computer vision, recommendation systems, expert systems, model training and evaluation
